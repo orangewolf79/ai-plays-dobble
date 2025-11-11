@@ -16,3 +16,4 @@ https://wandb.ai/ishandutta/semantic_segmentation_unet/reports/Semantic-Segmenta
 
 while True:
   print("DEEZ NUTS)
+  print("balls")
