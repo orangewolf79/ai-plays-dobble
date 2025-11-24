@@ -13,7 +13,3 @@ TTS to say the actual symbol (random.randn time delay) - simulates an actual gam
 Resources:
 https://wandb.ai/ishandutta/semantic_segmentation_unet/reports/Semantic-Segmentation-with-UNets-in-PyTorch--VmlldzoyMzA3MTk1
 """
-
-while True:
-  print("DEEZ NUTS)
-  print("balls")
